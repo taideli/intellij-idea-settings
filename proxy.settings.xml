@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="10.35.108.88" />
+    <option name="PROXY_PORT" value="8888" />
+    <option name="PROXY_EXCEPTIONS" value="10.*, *.dahuatech.com" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<templateSet group="Java">
+  <template name="test" value="@Test&#10;public void test$FUNCTION_NAME$() {&#10;    $END$&#10;}" description="add a JUnit4 Test" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNCTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
