@@ -1,9 +1,0 @@
-<keymap version="1" name="Default for Windows copy" parent="$default">
-  <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="alt m" />
-  </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="Vcs.ToggleAmendCommitMode" />
-</keymap>
