@@ -37,8 +37,7 @@
 .idea
 *.iml
 out
-gen
-target</template>
+gen</template>
     </userTemplates>
   </component>
 </application>
