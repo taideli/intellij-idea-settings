@@ -1,7 +1,10 @@
 <application>
   <component name="MyBatisCodeHelper">
     <option name="profile">
-      <Profile />
+      <Profile>
+        <option name="tempFilePath" value="C:\Users\43334\AppData\Local\Temp\libhello.dll4880012589151529370" />
+        <option name="valid" value="true" />
+      </Profile>
     </option>
   </component>
 </application>
