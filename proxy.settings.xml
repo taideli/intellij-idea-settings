@@ -5,6 +5,6 @@
     <option name="PROXY_PORT" value="8888" />
     <option name="PROXY_EXCEPTIONS" value="10.*, *.dahuatech.com" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://dhproxy.dahuatech.com:4713/files/Proxy.pac " />
+    <option name="PAC_URL" value="http://dhproxy.dahuatech.com:4713/files/Proxy.pac" />
   </component>
 </application>
