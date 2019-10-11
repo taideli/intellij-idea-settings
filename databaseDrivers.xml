@@ -74,7 +74,7 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" rolling="false" use="true" version="9.4-1212" />
+      <artifact name="PostgreSQL" rolling="false" version="9.4-1212" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
@@ -82,7 +82,7 @@
       <option name="format-sources-on-sync" value="true" />
       <option name="source-loading" value="USER_SOURCES" />
       <library>
-        <url>file://D:/95_MavenRepository/org/postgresql/postgresql/42.2.6/postgresql-42.2.6.jar</url>
+        <url>file://D:/95_MavenRepository/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar</url>
       </library>
     </driver>
     <driver id="redshift">
