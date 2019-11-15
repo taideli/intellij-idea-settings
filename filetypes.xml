@@ -16,6 +16,7 @@
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="y" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
